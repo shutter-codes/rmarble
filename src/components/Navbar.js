@@ -13,7 +13,7 @@ export default function Navbar({ fixed }) {
             >
               Rajasthan Stone Frames <br></br> 
             </a>
-            <p className="justify-center items-center flex mr-3  text-red-600 font-semibold">Factory Outlet of Sidhivinayak Stores</p>
+            <p className="justify-center items-center flex mr-3 text-red-600 font-semibold">Factory Outlet of Siddhivinayak Stones</p>
           </div>
         </div>
       </nav>
