@@ -16,9 +16,9 @@ const ProductInfo = () => {
   }
 
   return (
-    <div className="md:flex  justify-center items-center py-12 2xl:px-20 md:px-6 px-4">
+    <div className="md:flex justify-center items-center py-12 2xl:px-20 md:px-6 px-4">
       <div className="xl:w-2/6 lg:w-2/5 w-80 ">
-        <img className="w-full" src={product.ProductImage} />
+        <img className="w-full h-96" src={product.ProductImage} />
       </div>
 
       <div className="xl:w-2/5 md:w-1/2 lg:ml-8 md:ml-6 md:mt-0 mt-6">
@@ -50,7 +50,7 @@ const ProductInfo = () => {
 
           <a
             href="http://wa.me/+917003278402"
-            class="flex items-center justify-center rounded-md  mt-2 font-bold bg-green-500 px-5 py-2.5 text-center text-sm  text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
+            class="flex items-center justify-center rounded-md  mt-2 font-bold bg-yellow-500 px-5 py-2.5 text-center text-sm  text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
           >
             Contact
           </a>
