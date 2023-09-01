@@ -1,0 +1,15 @@
+@media screen and (max-width: 1024px) {
+    .nav-head{
+       display: flex;
+       flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    p{
+       font-size: 0.7rem;
+       font-weight: bold ;
+    }
+}
