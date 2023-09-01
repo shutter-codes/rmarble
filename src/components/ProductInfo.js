@@ -50,7 +50,7 @@ const ProductInfo = () => {
 
           <a
             href="http://wa.me/+917003278402"
-            class="flex items-center justify-center rounded-md  mt-2 font-bold bg-yellow-500 px-5 py-2.5 text-center text-sm  text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
+            class="flex items-center justify-center rounded-md  mt-2 font-bold bg-yellow-300 px-5 py-2.5 text-center text-sm  text-white hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
           >
             Contact
           </a>
